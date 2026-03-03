@@ -28,7 +28,7 @@ export default function Sidebar() {
   const items = [
     { label: "Banners Hero", href: "/admin/banners", icon: LayoutDashboard },
     { label: "Proyectos", href: "/admin/proyectos", icon: Building2 },
-    { label: "Configuración", href: "/admin/settings", icon: Settings },
+    // { label: "Configuración", href: "/admin/settings", icon: Settings },
   ];
 
   const handleLogout = async () => {
