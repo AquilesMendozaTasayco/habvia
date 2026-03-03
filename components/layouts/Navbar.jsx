@@ -14,7 +14,7 @@ const NAV_LINKS = [
 ];
 
 const PROJECTS = [
-  { name: "PROYECTO 1", href: "/proyectos/bejarano-468" },
+  { name: "BEJARANO 468", href: "/proyectos/bejarano-468" },
 ];
 
 const SOCIAL_LINKS = [
