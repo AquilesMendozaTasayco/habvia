@@ -9,7 +9,7 @@ const slides = [
     id: 1,
     lema: "EXCLUSIVIDAD EN CADA DETALLE",
     subtitulo: "Proyectos inmobiliarios diseñados para una nueva forma de vivir.",
-    imagen: "/img1.png",
+    imagen: "/img1.webp",
     boton: "DESCUBRIR PROYECTO",
     href: "/proyectos/proyecto-1",
   },
@@ -19,7 +19,7 @@ const slides = [
     subtitulo: "Ubicaciones privilegiadas con acabados de primera clase.",
     imagen: "/img1.png",
     boton: "VER DETALLES",
-    href: "/proyectos/proyecto-2",
+    href: "/img1.webp",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const slides = [
     subtitulo: "Garantizamos plusvalía y confort en cada metro cuadrado.",
     imagen: "/img1.png",
     boton: "MÁS INFORMACIÓN",
-    href: "/proyectos/proyecto-3",
+    href: "/img1.webp",
   },
 ];
 
