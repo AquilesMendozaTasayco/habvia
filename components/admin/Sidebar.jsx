@@ -55,7 +55,7 @@ export default function Sidebar() {
         {/* Se incrementó la altura de h-[45px] a h-[65px] */}
         <div className="relative w-full h-[65px] mb-6 brightness-0 invert"> 
           <Image
-            src="/logo.png"
+            src="/logo1.png"
             alt="Habvia Logo"
             fill
             sizes="200px"
